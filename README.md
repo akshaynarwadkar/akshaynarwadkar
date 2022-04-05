@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me @akshaygasm on Instagram
+- 📫 How to reach me @imrealakshay on Instagram
 
 <!---
 akshaynarwadkar/akshaynarwadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
