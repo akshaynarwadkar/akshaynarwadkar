@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaynarwadkar
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me @imrealakshay on Instagram
 
